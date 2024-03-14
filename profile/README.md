@@ -40,8 +40,3 @@
 ![image](https://github.com/MoA-Gift-Funding/.github/assets/91999276/8d817109-51bd-47de-836a-1d80a3955b97)
 
 <br />
-
-## 🫡 서비스 맛보기
-
-<img src='https://res.cloudinary.com/dkjk8h8zd/image/upload/v1710343868/moa-flow_3_yug7p9.png' />
-<img src='https://res.cloudinary.com/dkjk8h8zd/image/upload/v1710343966/moa-flow_4_ks4i3q.png' />
